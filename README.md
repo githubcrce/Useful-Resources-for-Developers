@@ -108,6 +108,11 @@ A list of student-collated resources deemed to be useful for every developer
                     <ul>
                         <details>
                             <summary>Semester IV</summary>
+                            <ul>
+                                <li>
+                                    <a href="https://drive.google.com/drive/folders/1wc64onhkkMZw5DvY-dDgO0ittvdeRlW_?usp=sharing">Operating System</a>
+                                </li>
+                            <ul>
                         </details>
                     </ul>
                 </details>
