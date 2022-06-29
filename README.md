@@ -73,6 +73,11 @@ A list of student-collated resources deemed to be useful for every developer
                     <ul>
                         <details>
                             <summary>Semester VI</summary>
+                            <ul>
+                                <li>
+                                    <a href="https://drive.google.com/drive/folders/1Joh4VqI0ZScdFuhAkZ9i62oceBb0nAHy">All Books</a>
+                                </li>
+                            <ul>
                         </details>
                     </ul>
                 </details>
