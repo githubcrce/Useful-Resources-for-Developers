@@ -13,6 +13,8 @@ A list of student-collated resources deemed to be useful for every developer
 
 - [ColdFusion](https://www.youtube.com/user/coldfustion) 
 
+- [Machine Learning](https://www.youtube.com/c/joshstarmer)
+
 # Study Material
 
 <details open>
